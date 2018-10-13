@@ -1,0 +1,13 @@
+@relation champignon
+
+@attribute odeur {anis,amande,piquant}
+@attribute chapeau {jaune,blanc}
+@attribute spores {violet,marron,noir}
+@attribute lieu {bois,pré}
+@attribute lisseté {anneaux,tige,entière}
+@attribute class {comestible,toxique}
+
+
+@DATA
+anis,jaune,marron,bois,tige,?
+
